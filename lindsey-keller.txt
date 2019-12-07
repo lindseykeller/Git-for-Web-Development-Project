@@ -11,7 +11,7 @@ Semantic html provides meaning to the markup for the browser to interperet.
 
     3. What is an attribute and where do we put it? 
 
-    Atrributes provide attitional informationa bout html elements and go directly inside the tag.
+    Atrributes provide additional informationa bout html elements and go directly inside the tag.
 
     4. What is the h1 tag used for? How many times should I use it on a page?
 
@@ -46,7 +46,7 @@ Semantic html provides meaning to the markup for the browser to interperet.
     Any amount of times
 
     13. How do I get my link to open in a new tab?
-    target="_blank"
+   <a href="#" target="_blank">Link</a>
 
     14. What is the alt attribute used for? 
     Provides extra information for an image if it is not visible
@@ -55,7 +55,7 @@ Semantic html provides meaning to the markup for the browser to interperet.
     with a hash ex : #id
 
     16. What is the difference between a section and a div
-    A section tells the broswer that something will be another section to a page while a div
+    A section tells the broswer that something will be another section to a webpage or a change in th content, while a div
     can be used for elements that do not need additional meaning.
 
     17. What is CSS used for? 
@@ -150,7 +150,7 @@ Stretch Questions
     It is taken from the normal doc flow and positioned relative to the nearest positioned ancestor. If not
     it will be relative to the body.
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    width:auto...I'm not sure on this one.
+    n/a
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? 
     The box model shows where the margins, padding and border are in an element. 
