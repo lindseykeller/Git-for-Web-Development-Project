@@ -3,7 +3,7 @@ https://codepen.io/lindseykeller/pen/BayoZev?editors=1100
 
 1. What is Semantic HTML? 
 
-Semantic html provides meaning to the markeup for the broseer to interperet.
+Semantic html provides meaning to the markup for the browser to interperet.
 
     2. What is HTML used for? 
 
